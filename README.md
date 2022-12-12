@@ -45,7 +45,7 @@ Upon running cell one a new chrome browser session is started with the landing p
 Cell two creates the scrapping function with automated tasks built in for page navigation and refreshing. 
 
 ### Cell 3:
-In cell three the script can be adjusted to run every ______ (second(s), minute(s), hour(s)) until an end time of choice. Upon running the script will automatically naviagate to appropriate pages, refresh, and scrape and store the above listed variables during the inputted interval of time.
+In cell three the script can be adjusted to run every ______ (second(s), minute(s), hour(s)) until an end time of choice. Upon running the cell the script will automatically naviagate to appropriate pages, refresh, and scrape and store the above listed variables during the inputted interval of time.
 
 
 
