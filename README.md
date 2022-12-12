@@ -1,8 +1,8 @@
 # Automated Stock Scraper
 Using the online brokerage services of **Charles Schwab**, this python script scrapes the following variables for a highlighted stock:
-### Greek Values
-+ Vega
-+ Theta
+### Greek Values                    ### Call & Put Values
++ Vega                              + Volume
++ Theta                             + OI
 + Gamma
 + Delta
 + IV
@@ -17,7 +17,7 @@ Using the online brokerage services of **Charles Schwab**, this python script sc
 + Theta2
 + Vega2
 
-### Call & Put Values
+
 + Volume
 + OI
 + Last
@@ -31,3 +31,5 @@ Using the online brokerage services of **Charles Schwab**, this python script sc
 + Change2
 + Volume2
 + OI2
+
+The scrapped data is then formatted into a pandas dataframe and stored 
