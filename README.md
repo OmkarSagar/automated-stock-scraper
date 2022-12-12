@@ -36,7 +36,7 @@ Using the online brokerage services of Charles Schwab, this python script scrape
 
 The scrapped data is then formatted into a pandas dataframe and then locally stored using sqlite3. 
 
-**The script does require a Chalres Schwab account login and password to work. Furthermore, while the scrapping and storing of the variables is automated, the script is not _fully_ automated and requires some initial input. Code should be run as follows:** 
+**The script does require a Chalres Schwab account login and password to work. Chrome Webdriver compatible with your installed version of Chrome is also needed. Furthermore, while the scrapping and storing of the variables is automated, the script is not _fully_ automated and requires some initial input. Code should be run as follows:** 
 
 ### Cell 1:
 Upon running cell one a new chrome browser session is started with the landing page being the login screen to Charles Schwab. Login and password then need to be _manually inputted_. _Manually_ navigate to page of stock of interest.
