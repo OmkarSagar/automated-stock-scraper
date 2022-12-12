@@ -1,2 +1,2 @@
 # Automated Stock Scraper
-Automated python script for scraping QQQ stock specific variables from Charles Schwab every 10 minutes for a desired interval of time. 
+This python script scrapes the following variables for a highlighted stock using brokerage services of **Charles Schwab**. 
