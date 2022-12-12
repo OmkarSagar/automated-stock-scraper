@@ -1,5 +1,5 @@
 # Automated Stock Scraper
-This python script scrapes the following variables for a highlighted stock using the online brokerage services of **Charles Schwab**:
+using the online brokerage services of **Charles Schwab**, this python script scrapes the following variables for a highlighted stock:
 ### Greek Values
 + Vega
 + Theta
